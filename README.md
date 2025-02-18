@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Brub539
+- 👀 I’m interested in Data Analysis, Cloud Technologies (AWS), and EdTech solutions.
+- 🌱 I’m currently learning advanced Machine Learning techniques and expanding my AWS certifications.
+- 💞️ I’m looking to collaborate on projects involving data automation, educational tools, or cloud-based applications.
+- 📫 How to reach me: brunofranklin101@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My husky is weaker than my beagle lol.
