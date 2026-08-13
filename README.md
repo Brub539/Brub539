@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: AI-driven systems and cloud infrastructure at Perforza.<br><br>👯 I'm looking to collaborate on: Open-source AI projects and innovative cloud solutions.<br><br>🌱 I'm currently learning: Advanced machine learning techniques and serverless architecture optimization.<br><br>💬 Ask me about: Building scalable AI solutions, cloud migrations, and data automation.<br><br>⚡ Fun fact: I taught US high-school kids coding and math through Papaya
+🔭 I'm currently working on: AI-driven systems and cloud infrastructure.<br><br>👯 I'm looking to collaborate on: Open-source AI projects and innovative cloud solutions.<br><br>🌱 I'm currently learning: Advanced machine learning techniques and serverless architecture optimization.<br><br>💬 Ask me about: Building scalable AI solutions, cloud migrations, and data automation.<br><br>⚡ Fun fact: I taught US high-school kids coding and math through Papaya
 
 
 ## 🌐 Socials:
