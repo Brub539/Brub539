@@ -12,7 +12,7 @@ Currently at **thesum**. Based in Brazil. Interested in applied ML, document und
 
 **[bank-marketing](https://github.com/Brub539/bank-marketing)** — Term-deposit prediction on the UCI bank marketing dataset, built around a **leakage-free chronological split** rather than the random split that inflates most published results on it. Nine model configurations across seven algorithm families, with the leaky-feature trap measured explicitly instead of quietly exploited.
 
-**[isometric-agent-sim](https://github.com/Brub539/isometric-agent-sim)** — A procedurally generated isometric world in pure Python and pygame. Terrain from stacked cones through smoothstep terracing, a steepest-descent water-flow model with diffusion and erosion, and foraging agents on a Beta-distribution energy curve. No game engine, and not a single image asset — every sprite is drawn from polygon math at runtime.
+**[isometric-agent-sim](https://github.com/Brub539/isometric-agent-sim)** — A procedurally generated isometric world in pure Python and pygame. Terrain from stacked cones through smoothstep terracing, a steepest-descent water-flow model with diffusion and erosion, and foraging agents on a Beta-distribution energy curve. No game engine: every sprite, down to the variable-height cube faces, is drawn from polygon math at runtime rather than loaded from an image.
 
 ---
 
