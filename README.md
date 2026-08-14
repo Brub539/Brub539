@@ -2,7 +2,7 @@
 
 I build systems that turn messy real-world documents and data into something a business can actually act on — mostly in Python, usually with a machine-learning or LLM component, and always with a human in the loop where it matters.
 
-Based in Brazil. Interested in applied ML, document understanding, and the unglamorous data engineering that makes either of them work.
+Currently at **thesum**. Based in Brazil. Interested in applied ML, document understanding, and the unglamorous data engineering that makes either of them work.
 
 ---
 
