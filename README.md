@@ -1,17 +1,35 @@
-# 💫 About Me:
-🔭 I'm currently working on: AI-driven systems and cloud infrastructure.<br><br>👯 I'm looking to collaborate on: Open-source AI projects and innovative cloud solutions.<br><br>🌱 I'm currently learning: Advanced machine learning techniques and serverless architecture optimization.<br><br>💬 Ask me about: Building scalable AI solutions, cloud migrations, and data automation.<br><br>
+# Bruno Franklin Gomes Muniz
 
+I build systems that turn messy real-world documents and data into something a business can actually act on — mostly in Python, usually with a machine-learning or LLM component, and always with a human in the loop where it matters.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bruno.franklin1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-muniz-642227217) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Select-Equipment8001/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunofranklin101@gmail.com) 
-
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+Based in Brazil. Interested in applied ML, document understanding, and the unglamorous data engineering that makes either of them work.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Brub539&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 What I've built
+
+**[conciliador-contabil](https://github.com/Brub539/conciliador-contabil)** — A production desktop app for a Brazilian accounting firm that turns a folder of expense documents into a ready-to-import ledger file. Deterministic parsers first (invoice XML, bank slips, PIX — all checksum-validated), then local vision OCR, then an LLM only where genuine ambiguity remains. **98.7% auto-classified** on a labelled evaluation set, with an export gate that refuses to post anything uncertain.
+
+**[bank-marketing](https://github.com/Brub539/bank-marketing)** — Term-deposit prediction on the UCI bank marketing dataset, built around a **leakage-free chronological split** rather than the random split that inflates most published results on it. Nine model configurations across seven algorithm families, with the leaky-feature trap measured explicitly instead of quietly exploited.
+
+**[isometric-agent-sim](https://github.com/Brub539/isometric-agent-sim)** — A procedurally generated isometric world in pure Python and pygame. Terrain from stacked cones through smoothstep terracing, a steepest-descent water-flow model with diffusion and erosion, and foraging agents on a Beta-distribution energy curve. No game engine, and not a single image asset — every sprite is drawn from polygon math at runtime.
+
+---
+
+## 🛠️ Tech I actually work in
+
+**Languages** — `Python` · `TypeScript` · `JavaScript` · `SQL`
+
+**ML & data** — `scikit-learn` · `LightGBM` · `CatBoost` · `PyTorch` · `TensorFlow` · `Optuna` · `pandas` · `NumPy` · `SciPy`
+
+**LLM & retrieval** — `OpenRouter` · `Ollama` · `Genkit` · embeddings + BM25 hybrid search
+
+**Web & infra** — `Next.js` · `React` · `Firebase` · `AWS Lambda` · `DynamoDB` · `Terraform` · `Docker` · `PostgreSQL`
+
+---
+
+## 🌐 Elsewhere
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-muniz-642227217)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunofranklin101@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bruno.franklin1)
